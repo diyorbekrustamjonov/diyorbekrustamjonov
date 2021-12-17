@@ -8,9 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diyorbekrustamjonov&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" style="border:3px solid red;"src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorbekrustamjonov&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/diyorbekrustamjonov/diyorbekrustamjonov/output/github-contribution-grid-snake.svg" />
-</div>
 
 # 🔨 My programming skills:
 <div style="display: inline_block" align="center">
@@ -36,7 +33,10 @@
 <div style="display: inline_block" align="center">
   <img alt="JavaScript" height="30" width="40" style="margin-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img alt="JavaScript" height="30" width="40" style="margin-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-   
 </div>
   
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=diyorbekrustamjonov&bg_color=000000&color=36bcf7&line=36bcf7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/diyorbekrustamjonov/diyorbekrustamjonov/output/github-contribution-grid-snake.svg" />
+</div>
