@@ -30,9 +30,11 @@
   <img alt="Webpack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg">
   
 </div>
- <br>
 
-##Programm skill which I have learned in Najot-Talim:  
+<br>
+
+##Programm skills which i have learned in Najot-Talim:  
+
 <div align="center">
   <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   
