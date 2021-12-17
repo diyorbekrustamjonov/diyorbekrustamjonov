@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diyorbekrustamjonov&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" style="border:3px solid red;"src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorbekrustamjonov&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+<br>
 ### 🔨 My programming skills:
 <div style="display: inline_block" align="center">
   <img alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -39,4 +39,11 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/diyorbekrustamjonov/diyorbekrustamjonov/output/github-contribution-grid-snake.svg" />
+</div>
+
+<div align="center"> 
+  <a href="https://www.youtube.com/channel/UCuqyDwL24mdZ0gqy6jXKL8g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/diyorbek-rustamjonov-9105b5219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:drustamjonov0919@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://leetcode.com/diyorbekrustamjonov/"><img src="https://img.shields.io/badge/-LeetCode-%23000?style=for-the-badge&logo=LeetCode&logoColor=white" target="_blank"></a>
 </div>
