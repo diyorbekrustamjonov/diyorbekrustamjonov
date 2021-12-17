@@ -51,7 +51,7 @@
   <img alt="JavaScript" height="30" width="40" style="margin-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
   
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=diyorbekrustamjonov&bg_color=000000&color=36bcf7&line=36bcf7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity graph](https://activity-graph.herokuapp.com/graph?username=diyorbekrustamjonov&bg_color=000000&color=36bcf7&line=36bcf7&point=ffffff&area=true&hide_border=true)](https://github.com/diyorbekrustamjonov)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/diyorbekrustamjonov/diyorbekrustamjonov/output/github-contribution-grid-snake.svg" />
