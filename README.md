@@ -9,7 +9,7 @@
   <img height="180em" style="border:3px solid red;"src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorbekrustamjonov&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-# 🔨 My programming skills:
+### 🔨 My programming skills:
 <div style="display: inline_block" align="center">
   <img alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   
@@ -29,7 +29,7 @@
 </div>
 
   
-# 🔨 I learning programming languages:
+### 🔨 I learning programming languages:
 <div style="display: inline_block" align="center">
   <img alt="JavaScript" height="30" width="40" style="margin-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img alt="JavaScript" height="30" width="40" style="margin-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
