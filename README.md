@@ -2,14 +2,16 @@
   Welcome to Diyorbek Rustamjonov's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
+<br>
 <div align="center">
   <a href="https://github.com/diyorbekrustamjonov">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diyorbekrustamjonov&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" style="border:3px solid red;"src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorbekrustamjonov&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
 <br>
-##🤹 My programming skills:
+  
+## 🤹 My programming skills:
 <div style="display: inline_block" align="center">
   <img alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   
@@ -34,7 +36,7 @@
   
   <img alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   
-  <img alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
+  <img alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
 </div>
 
   
