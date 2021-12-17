@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23343868&size=28&lines=Full+stack+Web+developer)](https://git.io/typing-svg)
+
 <div align="center">
   <a href="https://github.com/diyorbekrustamjonov">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diyorbekrustamjonov&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
