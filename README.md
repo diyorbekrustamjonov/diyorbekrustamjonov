@@ -51,11 +51,17 @@
   <img alt="JavaScript" height="30" width="40" style="margin-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
   
+<br>
+  
 [![Activity graph](https://activity-graph.herokuapp.com/graph?username=diyorbekrustamjonov&bg_color=000000&color=36bcf7&line=36bcf7&point=ffffff&area=true&hide_border=true)](https://github.com/diyorbekrustamjonov)
 
+<br>
+  
 <div align="center">
   <img src="https://raw.githubusercontent.com/diyorbekrustamjonov/diyorbekrustamjonov/output/github-contribution-grid-snake.svg" />
 </div>
+
+<br>  
 
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCuqyDwL24mdZ0gqy6jXKL8g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
