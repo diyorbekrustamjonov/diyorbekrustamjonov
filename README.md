@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23343868&size=28&lines=Full+stack+Web+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&lines=Full+stack+Web+developer)](https://github.com/diyorbekrustamjonov)
 
 <div align="center">
   <a href="https://github.com/diyorbekrustamjonov">
