@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/diyorbekrustamjonov/"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+stack+Web+developer"></a>
+  <h2><a align="center" href="https://github.com/diyorbekrustamjonov/"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+stack+Web+developer"></a></h2>
 </p>
 
 <div align="center">
