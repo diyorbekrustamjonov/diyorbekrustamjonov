@@ -29,7 +29,7 @@
 </div>
 
   
-### 🔨 I learning programming languages:
+### 🔨 I am learning programm skills:
 <div style="display: inline_block" align="center">
   <img alt="JavaScript" height="30" width="40" style="margin-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img alt="JavaScript" height="30" width="40" style="margin-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
