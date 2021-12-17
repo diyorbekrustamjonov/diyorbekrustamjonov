@@ -9,7 +9,7 @@
   <img height="180em" style="border:3px solid red;"src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorbekrustamjonov&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
-### 🔨 My programming skills:
+##🤹 My programming skills:
 <div style="display: inline_block" align="center">
   <img alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   
@@ -26,10 +26,20 @@
   <img alt="Gulp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg">
   
   <img alt="Webpack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg">
+  
+  
+</div>
+  
+<div align="center">
+  <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  
+  <img alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  
+  <img alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
 </div>
 
   
-### 🔨 I am learning programm skills:
+## 👨‍💻 I am learning programm skills:
 <div style="display: inline_block" align="center">
   <img alt="JavaScript" height="30" width="40" style="margin-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img alt="JavaScript" height="30" width="40" style="margin-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
