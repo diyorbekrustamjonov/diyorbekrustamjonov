@@ -66,6 +66,7 @@
 
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCuqyDwL24mdZ0gqy6jXKL8g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://t.me/Rustamjonov_Diyorbek" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/diyorbek-rustamjonov-9105b5219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:drustamjonov0919@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://leetcode.com/diyorbekrustamjonov/"><img src="https://img.shields.io/badge/-LeetCode-%23000?style=for-the-badge&logo=LeetCode&logoColor=white" target="_blank"></a>
