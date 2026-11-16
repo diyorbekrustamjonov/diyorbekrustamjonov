@@ -20,4 +20,7 @@ Community: [floss-uz](https://github.com/floss-uz) · [ecma-uz](https://github.c
 
 [Telegram](https://t.me/Rustamjonov_Diyorbek) · [LinkedIn](https://www.linkedin.com/in/diyorbek-rustamjonov-9105b5219/) · [LeetCode](https://leetcode.com/diyorbekrustamjonov/) · [xattab.uz](https://xattab.uz)
 
-<img alt="contribution snake" src="https://raw.githubusercontent.com/diyorbekrustamjonov/diyorbekrustamjonov/output/github-contribution-grid-snake.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diyorbekrustamjonov/diyorbekrustamjonov/output/github-contribution-grid-snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/diyorbekrustamjonov/diyorbekrustamjonov/output/github-contribution-grid-snake.svg">
+</picture>
